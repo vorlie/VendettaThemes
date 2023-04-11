@@ -1,2 +1,1 @@
-# VendettaThemes
- Themes that I made for Vendetta
+# Repository for themes that I made for Vendetta.
