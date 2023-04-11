@@ -15,13 +15,13 @@
             "#A658A2"
         ],
         "TEXT_NORMAL": [
-            "#FFFFFF"
+            "#EA93E6"
         ],
         "TEXT_MUTED": [
             "#7F617D"
         ],
         "TEXT_LINK": [
-            "#FFEDFE"
+            "#FFC1FC"
         ],
         "INTERACTIVE_NORMAL": [
             "#A658A2"
@@ -111,7 +111,7 @@
     },
     "rawColors": {
         "PRIMARY_500": "#9E769C",
-        "PRIMARY_100": "#A658A2",
+        "PRIMARY_100": "#FDD8FB",
         "PRIMARY_200": "#F4E5F3",
         "PRIMARY_300": "#9E769C",
         "PRIMARY_360": "#9E769C",
@@ -126,9 +126,9 @@
         "BRAND_500": "#936195",
         "BRAND_560": "#D096CF",
         "YELLOW_300": "#936195",
-        "GREEN_600": "#A658A2",
+        "GREEN_600": "#FDD8FB",
         "RED_400": "#9E769C",
-        "WHITE_500": "#A658A2",
+        "WHITE_500": "#FDD8FB",
         "GREEN_360": "#503850"
     },
     "spec": 2
