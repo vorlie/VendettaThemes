@@ -8,4 +8,4 @@ Raw link: " https://raw.githubusercontent.com/vorlie/VendettaThemes/main/Purpdar
 
 Preview:
 
-![](https://us-east-1.tixte.net/uploads/cdn.vorlie.pl/purpdark_preview.jpg)
+![](https://us-east-1.tixte.net/uploads/cdn.vorlie.pl/preview.jpg)
