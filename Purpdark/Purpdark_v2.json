@@ -1,6 +1,6 @@
 {
-    "name": "Purpdark v2",
-    "description": "A theme based of my phone's wallpaper.",
+    "name": "Purpdark v2.1",
+    "description": "A theme based of my phone's wallpaper. Light mode and Amoled in works.",
     "authors": [
         {
             "name": "vorlie",
@@ -9,31 +9,31 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#A658A2"
+            "#D572D0"
         ],
         "HEADER_SECONDARY": [
-            "#A658A2"
+            "#D572D0"
         ],
         "TEXT_NORMAL": [
             "#FFE8FE"
         ],
         "TEXT_MUTED": [
-            "#7F617D"
+            "#484848"
         ],
         "TEXT_LINK": [
             "#EE8EE9"
         ],
         "INTERACTIVE_NORMAL": [
-            "#A658A2"
+            "#C599C3"
         ],
         "INTERACTIVE_HOVER": [
-            "#532C51"
+            "#CBDE23"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#A658A2"
+            "#FDC5FA"
         ],
         "INTERACTIVE_MUTED": [
-            "#7D427A"
+            "#5F5160"
         ],
         "BACKGROUND_PRIMARY": [
             "#282828"
@@ -76,7 +76,7 @@
             "#7D427A"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "484848"
+            "#484848"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#26273b"
@@ -97,39 +97,40 @@
             "#9E769C"
         ],
         "TEXT_DANGER": [
-            "#863D63"
+            "#FC0E61"
         ],
         "KEYBOARD": [
             "#282828"
         ],
         "CHANNEL_ICON": [
-            "#A658A2"
+            "#C6B3C5"
         ],
         "CHAT_BACKGROUND": [
             "#282828"
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#9E769C",
         "PRIMARY_100": "#FDD8FB",
-        "PRIMARY_200": "#F4E5F3",
-        "PRIMARY_300": "#9E769C",
-        "PRIMARY_360": "#9E769C",
-        "PRIMARY_400": "#9E769C",
+        "PRIMARY_200": "#947592",
+
+        "PRIMARY_300": "#B424AB",
+
+        "PRIMARY_360": "#C272F0",
+
+        "PRIMARY_400": "#7114EE",
+
+        "PRIMARY_500": "#5F3A70",
+
         "PRIMARY_600": "#282828",
-        "PRIMARY_630": "#1B111B",
-        "PRIMARY_660": "#1B111B",
+        "PRIMARY_630": "#2F2F2F",
+        "PRIMARY_660": "#2F2F2F",
         "PRIMARY_700": "#282828",
         "PRIMARY_800": "#282828",
+
         "BRAND_260": "#936195",
         "BRAND_360": "#D096CF",
         "BRAND_500": "#936195",
-        "BRAND_560": "#D096CF",
-        "YELLOW_300": "#936195",
-        "GREEN_600": "#FDD8FB",
-        "RED_400": "#9E769C",
-        "WHITE_500": "#FDD8FB",
-        "GREEN_360": "#503850"
+        "BRAND_560": "#D096CF"
     },
     "spec": 2
 }
