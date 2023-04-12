@@ -1,7 +1,10 @@
 # Repository for themes that I made for Vendetta.
 
+## Install theme
+Copy the raw link for the desired theme and paste it in `Settings -> Vendetta -> Themes -> Plus Sign` to install the theme.
+
 ## Purpdark
-Copy and Paste " https://raw.githubusercontent.com/vorlie/VendettaThemes/main/Purpdark/Purpdark_v2.json " in `Settings -> Vendetta -> Themes -> Plus Sign` to install the theme.
+Raw link: " https://raw.githubusercontent.com/vorlie/VendettaThemes/main/Purpdark/Purpdark_v2.json " 
 
 Preview:
 
