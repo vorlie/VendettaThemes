@@ -1,0 +1,136 @@
+{
+    "name": "Purpdark v2.1",
+    "description": "A theme based of my phone's wallpaper. Light mode supported.",
+    "authors": [
+        {
+            "name": "vorlie#9228",
+            "id": "670986272377929743"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#D572D0", "#7D00C0"
+        ],
+        "HEADER_SECONDARY": [
+            "#D572D0", "#7D00C0"
+        ],
+        "TEXT_NORMAL": [
+            "#FFE8FE", "#141414"
+        ],
+        "TEXT_MUTED": [
+            "#484848", "#202020"
+        ],
+        "TEXT_LINK": [
+            "#EE8EE9", "#7D00C0"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#C599C3", "#B26EDA"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#B988BC", "#A988BC"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#FDC5FA", "#A963F6"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#5F5160" ,"#8C8099"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#282828", "#E9E9E9"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#222222", "#EBEBEB"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#222222", "#EBEBEB"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#282828", "#FFFFFF"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#704A6E", "#5F4A70"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#222222", "#EBEBEB"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#222222", "#EBEBEB"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#222222", "#EBEBEB"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#222222", "#EBEBEB"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#292929", "#ECECEC"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#292929", "#ECECEC"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#7D427A", "#E0C2FF"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#7D427A", "#E0C2FF"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#484848", "#B0B0B0"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#26273b", "#26273b"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent", "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#DAB3D8", "#C4B3DA"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#DAB3D8", "#C4B3DA"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#242424", "#BEBEBE"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#9E769C", "#89769E"
+        ],
+        "TEXT_DANGER": [
+            "#FC0E61", "#940EFC"
+        ],
+        "KEYBOARD": [
+            "#282828", "#FFFFFF"
+        ],
+        "CHANNEL_ICON": [
+            "#C6B3C5", "#31283E"
+        ],
+        "CHAT_BACKGROUND": [
+            "#282828", "#FFFFFF"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#FDD8FB",
+        "PRIMARY_200": "#947592",
+
+        "PRIMARY_300": "#B424AB",
+
+        "PRIMARY_360": "#C272F0",
+
+        "PRIMARY_400": "#7114EE",
+
+        "PRIMARY_500": "#5F3A70",
+
+        "PRIMARY_600": "#282828",
+        "PRIMARY_630": "#2F2F2F",
+        "PRIMARY_660": "#2F2F2F",
+        "PRIMARY_700": "#282828",
+        "PRIMARY_800": "#282828",
+
+        "BRAND_260": "#936195",
+        "BRAND_360": "#D096CF",
+        "BRAND_500": "#936195",
+        "BRAND_560": "#D096CF"
+    },
+    "spec": 2
+}
