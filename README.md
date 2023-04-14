@@ -22,3 +22,10 @@ Raw link: https://raw.githubusercontent.com/vorlie/VendettaThemes/main/PurpAMOLE
 ### Preview
 
 ![](https://us-east-1.tixte.net/uploads/cdn.vorlie.pl/AMOLED_preview.jpg)
+
+
+## BlueVen
+Raw link: https://raw.githubusercontent.com/vorlie/VendettaThemes/main/BlueVen/BlueVen.json
+
+### Preview
+![](https://us-east-1.tixte.net/uploads/cdn.vorlie.pl/BlueVen_preview.jpg)
