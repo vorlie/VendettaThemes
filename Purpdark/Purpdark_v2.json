@@ -1,5 +1,5 @@
 {
-    "name": "Purpdark v2.1",
+    "name": "PurpDark",
     "description": "A theme based of my phone's wallpaper. Light mode supported.",
     "authors": [
         {
@@ -97,7 +97,7 @@
             "#9E769C", "#89769E"
         ],
         "TEXT_DANGER": [
-            "#FC0E61", "#940EFC"
+            "#FC0E61", "#FC0E61"
         ],
         "KEYBOARD": [
             "#282828", "#FFFFFF"
@@ -112,15 +112,10 @@
     "rawColors": {
         "PRIMARY_100": "#FDD8FB",
         "PRIMARY_200": "#947592",
-
         "PRIMARY_300": "#B424AB",
-
         "PRIMARY_360": "#C272F0",
-
         "PRIMARY_400": "#7114EE",
-
         "PRIMARY_500": "#5F3A70",
-
         "PRIMARY_600": "#282828",
         "PRIMARY_630": "#2F2F2F",
         "PRIMARY_660": "#2F2F2F",
@@ -130,7 +125,11 @@
         "BRAND_260": "#936195",
         "BRAND_360": "#D096CF",
         "BRAND_500": "#936195",
-        "BRAND_560": "#D096CF"
+        "BRAND_560": "#D096CF",
+        "WHITE_500": "#F0C4FF",
+        "YELLOW_300": "#FFF36B",
+        "GREEN_360": "#42FD9D",
+        "RED_400": "#FC0E61"
     },
     "spec": 2
 }
