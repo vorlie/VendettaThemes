@@ -16,13 +16,13 @@
             "#9C3EBB"
         ],
         "TEXT_NORMAL": [
-            "#EFBAFF"
+            "#FAEBFF"
         ],
         "TEXT_MUTED": [
             "#6C4878"
         ],
         "TEXT_LINK": [
-            "#9C3EBB"
+            "#E69CFF"
         ],
         "INTERACTIVE_NORMAL": [
             "#9C3EBB"
