@@ -29,3 +29,12 @@ Raw link: https://raw.githubusercontent.com/vorlie/VendettaThemes/main/BlueVen/B
 
 ### Preview
 ![](https://us-east-1.tixte.net/uploads/cdn.vorlie.pl/BlueVen_preview.jpg)
+
+## PurpDark with Background
+Light theme not supported.
+
+Raw link: https://raw.githubusercontent.com/vorlie/VendettaThemes/main/Purpdark/PurpDark_BG/Purpdark_v3.json
+
+### Preview
+
+![](https://us-east-1.tixte.net/uploads/cdn.vorlie.pl/pdv3.png)
