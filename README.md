@@ -38,3 +38,10 @@ Raw link: https://raw.githubusercontent.com/vorlie/VendettaThemes/main/Purpdark/
 ### Preview
 
 ![](https://us-east-1.tixte.net/uploads/cdn.vorlie.pl/pdv3.png)
+
+## Nord
+Raw link: https://raw.githubusercontent.com/vorlie/VendettaThemes/main/Nord/nord.json
+
+### Preview
+
+![](https://us-east-1.tixte.net/uploads/cdn.vorlie.pl/nord_preview.jpg)

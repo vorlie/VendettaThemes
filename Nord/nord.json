@@ -1,0 +1,123 @@
+{
+    "name": "Nord",
+    "description": "A theme based on Nord color palette, with a few additional shades, tints & tones",
+    "authors": [
+        {
+            "name": "vorlie#9228",
+            "id": "670986272377929743"
+        }
+    ],
+    "semanticColors": {
+      "HEADER_PRIMARY": [
+          "#D8DEE9"
+      ],
+      "HEADER_SECONDARY": [
+          "#D8DEE9"
+      ],
+      "TEXT_NORMAL": [
+          "#ECEFF4"
+      ],
+      "TEXT_MUTED": [
+          "#617991"
+      ],
+      "TEXT_LINK": [
+          "#5E81AC"
+      ],
+      "INTERACTIVE_NORMAL": [
+          "#81A1C1"
+      ],
+      "INTERACTIVE_HOVER": [
+          "#434C5E"
+      ],
+      "INTERACTIVE_ACTIVE": [
+          "#C0D0E0"
+      ],
+      "INTERACTIVE_MUTED": [
+          "#617991" 
+      ],
+      "BACKGROUND_PRIMARY": [
+          "#2E3440"
+      ],
+      "BACKGROUND_SECONDARY": [
+          "#3B4252"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+          "#3B4252"
+      ],
+      "BACKGROUND_TERTIARY": [
+          "#2E3440"
+      ],
+      "BACKGROUND_ACCENT": [
+          "#434C5E"
+      ],
+      "BACKGROUND_FLOATING": [
+          "#3B4252"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+          "#3B4252"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+          "#3B4252"
+      ],
+      "BACKGROUND_NESTED_FLOATING": [
+          "#3B4252"
+      ],
+     
+      "BACKGROUND_MESSAGE_HOVER": [
+          "#2E3440"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+          "#2E3440"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+          "#3B4252"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+          "#434C5E"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+          "#3B4252"
+      ],
+      "CHANNELTEXTAREA_BACKGROUND": [
+          "#242424"
+      ],
+      "CHANNELS_DEFAULT": [
+          "#81A1C1"
+      ],
+      "TEXT_DANGER": [
+          "#BF616A"
+      ],
+      "KEYBOARD": [
+          "#2E3440"
+      ],
+      "CHANNEL_ICON": [
+          "#81A1C1"
+      ],
+      "CHAT_BACKGROUND": [
+          "#2E3440"
+      ]
+  },
+  "rawColors": {
+      "PRIMARY_100": "#D8DEE9",
+      "PRIMARY_200": "#4C566A",
+      "PRIMARY_300": "#7390AD",
+      "PRIMARY_360": "#81A1C1",
+      "PRIMARY_400": "#617991",
+      "PRIMARY_500": "#476181",
+      "PRIMARY_600": "#2E3440",
+      "PRIMARY_630": "#434C5E",
+      "PRIMARY_660": "#434C5E",
+      "PRIMARY_700": "#2E3440",
+      "PRIMARY_800": "#2E3440",
+  
+      "BRAND_260": "#8199B1",
+      "BRAND_360": "#5E81AC",
+      "BRAND_500": "#434C5E",
+      "BRAND_560": "#4C566A",
+      "WHITE_500": "#D8DEE9",
+      "YELLOW_300": "#4C566A",
+      "GREEN_360": "#4C566A",
+      "RED_400": "#BF616A"
+  },
+    "spec": 2
+  }
