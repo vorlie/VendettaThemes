@@ -95,6 +95,12 @@
       ],
       "CHAT_BACKGROUND": [
           "#2E3440"
+      ],
+      "SPOILER_HIDDEN_BACKGROUND": [
+          "#434C5E"
+      ],
+      "SPOILER_REVEALED_BACKGROUND": [
+          "#5B6272"
       ]
   },
   "rawColors": {
