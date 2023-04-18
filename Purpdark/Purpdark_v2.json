@@ -18,7 +18,7 @@
             "#FFE8FE", "#141414"
         ],
         "TEXT_MUTED": [
-            "#484848", "#202020"
+            "#5C5C5C", "#202020"
         ],
         "TEXT_LINK": [
             "#EE8EE9", "#7D00C0"
@@ -70,7 +70,7 @@
             "#292929", "#ECECEC"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#7D427A", "#E0C2FF"
+            "#463745", "#E0C2FF"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#7D427A", "#E0C2FF"
