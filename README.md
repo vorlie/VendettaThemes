@@ -1,6 +1,7 @@
 # Repository for themes that I made for Vendetta.
 You need [Vendetta](https://github.com/vendetta-mod/Vendetta#installing) installed on your device to get the themes work.
 
+Quick links:
 [PurpDark & PurpLight](https://github.com/vorlie/VendettaThemes#purpdark--purplight) / [PurpDark with Background](https://github.com/vorlie/VendettaThemes#purpdark-with-background) / [PurpAMOLED](https://github.com/vorlie/VendettaThemes#purpamoled) / [BlueVen](https://github.com/vorlie/VendettaThemes#blueven) / [Nord](https://github.com/vorlie/VendettaThemes#nord)
 
 ## Install theme
