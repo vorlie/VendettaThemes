@@ -18,7 +18,7 @@
           "#FFE8FE"
       ],
       "TEXT_MUTED": [
-          "#484848"
+          "#5E5E5E"
       ],
       "TEXT_LINK": [
           "#EE8EE9"
@@ -112,7 +112,7 @@
   "rawColors": {
       "PRIMARY_100": "#FDD8FB",
       "PRIMARY_200": "#947592",
-      "PRIMARY_300": "#B424AB",
+      "PRIMARY_300": "#D572D0",
       "PRIMARY_360": "#C272F0",
       "PRIMARY_400": "#7114EE",
       "PRIMARY_500": "#5F3A70",
@@ -130,7 +130,7 @@
       "YELLOW_300": "#B569E0",
       "GREEN_360": "#B569E0",
       "RED_400": "#FC0E61"
-  },
+},
     "spec": 2,
     "background": {
       "blur": 0,
@@ -139,4 +139,4 @@
       "color": "#282828"
   
     }
-  }
+}
