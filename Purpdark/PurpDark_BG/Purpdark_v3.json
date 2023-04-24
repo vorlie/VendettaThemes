@@ -1,5 +1,5 @@
 {
-    "name": "PurpDark V3",
+    "name": "PurpDark V3 ddd",
     "description": "Same theme but with background! - Purpdark",
     "authors": [
         {
@@ -107,6 +107,12 @@
       ],
       "CHAT_BACKGROUND": [
           "#282828"
+      ],
+      "SPOILER_HIDDEN_BACKGROUND": [
+        "#4B4B4B"
+      ],
+      "SPOILER_REVEALED_BACKGROUND": [
+        "#5E5E5E"
       ]
   },
   "rawColors": {
