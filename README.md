@@ -1,10 +1,10 @@
-# Repository for themes that I made for Vendetta.
-You need [Vendetta](https://github.com/vendetta-mod/Vendetta#installing) installed on your device to get the themes work.
+# VendettaThemes
+You need __[Vendetta](https://github.com/vendetta-mod/Vendetta#installing)__ installed on your device to get the themes work.
 
-Quick links:
-[PurpDark & PurpLight](https://github.com/vorlie/VendettaThemes#purpdark--purplight) / [PurpDark with Background](https://github.com/vorlie/VendettaThemes#purpdark-with-background) / [PurpAMOLED](https://github.com/vorlie/VendettaThemes#purpamoled) / [BlueVen](https://github.com/vorlie/VendettaThemes#blueven) / [Nord](https://github.com/vorlie/VendettaThemes#nord)
+***Quick links:***
+[PurpDark & PurpLight](https://github.com/vorlie/VendettaThemes#purpdark--purplight) / [PurpDark with Background](https://github.com/vorlie/VendettaThemes#purpdark-with-background) / [PurpAMOLED](https://github.com/vorlie/VendettaThemes#purpamoled) / [BlueVen](https://github.com/vorlie/VendettaThemes#blueven) / [Nord](https://github.com/vorlie/VendettaThemes#nord) / [SeaGreen](https://github.com/vorlie/VendettaThemes#seagreen)
 
-Installation: 
+***Installation:***
 Copy the raw link for the desired theme and paste it in `Settings -> Vendetta -> Themes -> Plus Sign` to install the theme.
 
 ## PurpDark & PurpLight
@@ -48,3 +48,11 @@ Raw link: https://raw.githubusercontent.com/vorlie/VendettaThemes/main/Nord/nord
 ### Preview
 
 ![](https://us-east-1.tixte.net/uploads/cdn.vorlie.pl/nord_preview.jpg)
+
+## SeaGreen
+Raw link: https://raw.githubusercontent.com/vorlie/VendettaThemes/main/SeaGreen/SeaGreen.json
+
+### Preview
+![](https://us-east-1.tixte.net/uploads/cdn.vorlie.pl/seagreen_preview.jpg)
+
+
