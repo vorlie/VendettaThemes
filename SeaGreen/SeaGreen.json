@@ -1,0 +1,130 @@
+{
+    "name": "Sea Green",
+    "description": "Theme based on Sea Green color!",
+    "authors": [
+        {
+            "name": "vorlie#9228",
+            "id": "670986272377929743"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#00F7B5"
+        ],
+        "HEADER_SECONDARY": [
+            "#00B784"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFFFF"
+        ],
+        "TEXT_MUTED": [
+            "#006B4F"
+        ],
+        "TEXT_LINK": [
+            "#00F7B5"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#00D199"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#00F7B5"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#006B4F"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#222222"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#2F2F2F"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#2F2F2F"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#222222"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#00B081"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#222222"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#222222"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#222222"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#222222"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#292929"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#292929"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#00A87B"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#00996E"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#222222"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#2a2a2a"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#006B4F"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#00A77A"
+        ],
+        "TEXT_DANGER": [
+            "#FC0E61"
+        ],
+        "KEYBOARD": [
+            "#282828"
+        ],
+        "CHANNEL_ICON": [
+            "#00D199"
+        ],
+        "CHAT_BACKGROUND": [
+            "#222222"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#3A3A3A"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "#5E5E5E"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#00FFBB",
+        "PRIMARY_200": "#006B4F",
+        "PRIMARY_300": "#00E2A6",
+        "PRIMARY_360": "#00FFBB",
+        "PRIMARY_400": "#00FFBB",
+        "PRIMARY_500": "#006B4F",
+        "PRIMARY_600": "#222222",
+        "PRIMARY_630": "#2F2F2F",
+        "PRIMARY_660": "#2F2F2F",
+        "PRIMARY_700": "#222222",
+        "PRIMARY_800": "#222222",
+
+        "BRAND_260": "#00B784",
+        "BRAND_360": "#00FFBB",
+        "BRAND_500": "#00D39B",
+        "BRAND_560": "#00FFBB",
+
+        "RED_400": "#FC0E61",
+        "YELLOW_300": "#00FFBB",
+        "GREEN_360": "#00FFBB",
+        "WHITE_500": "#FFFFFF"
+    },
+    "spec": 2
+}
