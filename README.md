@@ -4,7 +4,7 @@ You need [Vendetta](https://github.com/vendetta-mod/Vendetta#installing) install
 Quick links:
 [PurpDark & PurpLight](https://github.com/vorlie/VendettaThemes#purpdark--purplight) / [PurpDark with Background](https://github.com/vorlie/VendettaThemes#purpdark-with-background) / [PurpAMOLED](https://github.com/vorlie/VendettaThemes#purpamoled) / [BlueVen](https://github.com/vorlie/VendettaThemes#blueven) / [Nord](https://github.com/vorlie/VendettaThemes#nord)
 
-## Install theme
+Installation: 
 Copy the raw link for the desired theme and paste it in `Settings -> Vendetta -> Themes -> Plus Sign` to install the theme.
 
 ## PurpDark & PurpLight
