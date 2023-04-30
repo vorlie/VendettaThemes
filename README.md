@@ -1,5 +1,5 @@
 # VendettaThemes
-You need [Vendetta](https://github.com/vendetta-mod/Vendetta#installing) installed on your device to get the themes work.
+You need __[Vendetta](https://github.com/vendetta-mod/Vendetta#installing)__ installed on your device to get the themes work.
 
 ***Quick links:***
 [PurpDark & PurpLight](https://github.com/vorlie/VendettaThemes#purpdark--purplight) / [PurpDark with Background](https://github.com/vorlie/VendettaThemes#purpdark-with-background) / [PurpAMOLED](https://github.com/vorlie/VendettaThemes#purpamoled) / [BlueVen](https://github.com/vorlie/VendettaThemes#blueven) / [Nord](https://github.com/vorlie/VendettaThemes#nord) / [SeaGreen](https://github.com/vorlie/VendettaThemes#seagreen)
