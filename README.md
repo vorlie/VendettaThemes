@@ -13,10 +13,10 @@ Raw link: https://raw.githubusercontent.com/vorlie/VendettaThemes/main/Purpdark/
 ### Preview:
 
 Dark:
-![](https://us-east-1.tixte.net/uploads/cdn.vorlie.pl/preview.jpg)
+![](https://us-east-1.tixte.net/uploads/i.vorlie.pl/preview.jpg)
 
 Light:
-![](https://us-east-1.tixte.net/uploads/cdn.vorlie.pl/light_preview.jpg)
+![](https://us-east-1.tixte.net/uploads/i.vorlie.pl/light_preview.jpg)
 
 
 ## PurpAMOLED
@@ -24,14 +24,14 @@ Raw link: https://raw.githubusercontent.com/vorlie/VendettaThemes/main/PurpAMOLE
 
 ### Preview
 
-![](https://us-east-1.tixte.net/uploads/cdn.vorlie.pl/AMOLED_preview.jpg)
+![](https://us-east-1.tixte.net/uploads/i.vorlie.pl/AMOLED_preview.jpg)
 
 
 ## BlueVen
 Raw link: https://raw.githubusercontent.com/vorlie/VendettaThemes/main/BlueVen/BlueVen.json
 
 ### Preview
-![](https://us-east-1.tixte.net/uploads/cdn.vorlie.pl/BlueVen_preview.jpg)
+![](https://us-east-1.tixte.net/uploads/i.vorlie.pl/BlueVen_preview.jpg)
 
 ## PurpDark with Background
 Light theme not supported.
@@ -40,19 +40,19 @@ Raw link: https://raw.githubusercontent.com/vorlie/VendettaThemes/main/Purpdark/
 
 ### Preview
 
-![](https://us-east-1.tixte.net/uploads/cdn.vorlie.pl/pdv3.png)
+![](https://us-east-1.tixte.net/uploads/i.vorlie.pl/pdv3.png)
 
 ## Nord
 Raw link: https://raw.githubusercontent.com/vorlie/VendettaThemes/main/Nord/nord.json
 
 ### Preview
 
-![](https://us-east-1.tixte.net/uploads/cdn.vorlie.pl/nord_preview.jpg)
+![](https://us-east-1.tixte.net/uploads/i.vorlie.pl/nord_preview.jpg)
 
 ## SeaGreen
 Raw link: https://raw.githubusercontent.com/vorlie/VendettaThemes/main/SeaGreen/SeaGreen.json
 
 ### Preview
-![](https://us-east-1.tixte.net/uploads/cdn.vorlie.pl/seagreen_preview.jpg)
+![](https://us-east-1.tixte.net/uploads/i.vorlie.pl/seagreen_preview.jpg)
 
 
