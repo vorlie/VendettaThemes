@@ -2,7 +2,7 @@
 You need **[Vendetta](https://github.com/vendetta-mod/Vendetta#installing)** installed on your device to get the themes work.
 
 **Quick links:**
-[PurpDark & PurpLight](https://github.com/vorlie/VendettaThemes#purpdark--purplight) / [PurpDark with Background](https://github.com/vorlie/VendettaThemes#purpdark-with-background) / [PurpAMOLED](https://github.com/vorlie/VendettaThemes#purpamoled) / [BlueVen](https://github.com/vorlie/VendettaThemes#blueven) / [Nord](https://github.com/vorlie/VendettaThemes#nord) / [SeaGreen](https://github.com/vorlie/VendettaThemes#seagreen)
+[PurpDark & PurpLight](https://github.com/vorlie/VendettaThemes#purpdark--purplight) / [PurpDark with Background](https://github.com/vorlie/VendettaThemes#purpdark-with-background) / [PurpAMOLED](https://github.com/vorlie/VendettaThemes#purpamoled) / [BlueVen](https://github.com/vorlie/VendettaThemes#blueven) / [Nord](https://github.com/vorlie/VendettaThemes#nord) / [SeaGreen](https://github.com/vorlie/VendettaThemes#seagreen) / [Medium Slate Blue](https://github.com/vorlie/VendettaThemes#mediumslateblue)
 
 **Installation:**
 Copy the raw link for the desired theme and paste it in `Settings -> Vendetta -> Themes -> Plus Sign` to install the theme.
@@ -55,4 +55,9 @@ Raw link: https://raw.githubusercontent.com/vorlie/VendettaThemes/main/SeaGreen/
 ### Preview
 ![](https://us-east-1.tixte.net/uploads/i.vorlie.pl/seagreen_preview.jpg)
 
+## Medium Slate Blue
+Raw link: https://raw.githubusercontent.com/vorlie/VendettaThemes/main/MediumSlateBlue/MediumSlateBlue.json
+
+### Preview
+![](https://us-east-1.tixte.net/uploads/i.vorlie.pl/mediumslateblue.png)
 
