@@ -63,6 +63,7 @@ Raw link: https://raw.githubusercontent.com/vorlie/VendettaThemes/main/MediumSla
 
 ## Red Feathers
 Raw link: https://raw.githubusercontent.com/vorlie/VendettaThemes/main/RedFeathers/redfeathers.json
+
 No BG: https://raw.githubusercontent.com/vorlie/VendettaThemes/main/RedFeathers/redfeathers-nobg.json
 
 ### Preview
