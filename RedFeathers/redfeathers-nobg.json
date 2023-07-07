@@ -1,0 +1,130 @@
+{
+    "name": "Red Feathers",
+    "description": "Theme based on Pixel's 7A wallpaper.",
+    "authors": [
+        {
+            "name": "@vve1",
+            "id": "670986272377929743"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#FFDAD3"
+        ],
+        "HEADER_SECONDARY": [
+            "#FFB4A8"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFFFF"
+        ],
+        "TEXT_MUTED": [
+            "#76534f"
+        ],
+        "TEXT_LINK": [
+            "#ffb2a4"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#FFB4A8"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#FFDAD3"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#76534f"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#220403"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#360605"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#360605"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#220403"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#94473E"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#220403"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#220403"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#360605"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#220403"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#3D0604"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#B15F54"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#F09185"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#94473E"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#220403"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#4a2727"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#ae9591"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#bc877f"
+        ],
+        "TEXT_DANGER": [
+            "#d74a44"
+        ],
+        "KEYBOARD": [
+            "#591B15"
+        ],
+        "CHANNEL_ICON": [
+            "#FFB4A8"
+        ],
+        "CHAT_BACKGROUND": [
+            "#220403"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#D1796D"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "#FFB4A8"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#FFDAD3",
+        "PRIMARY_200": "#4a2727",
+        "PRIMARY_300": "#e03434",
+        "PRIMARY_360": "#FFDAD3",
+        "PRIMARY_400": "#FFDAD3",
+        "PRIMARY_500": "#4a2727",
+        "PRIMARY_600": "#220403",
+        "PRIMARY_630": "#591B15",
+        "PRIMARY_660": "#591B15",
+        "PRIMARY_700": "#220403",
+        "PRIMARY_800": "#220403",
+
+        "BRAND_260": "#FFB4A8",
+        "BRAND_360": "#FFDAD3",
+        "BRAND_500": "#FFB4A8",
+        "BRAND_560": "#FFDAD3",
+
+        "RED_400": "#d74a44",
+        "YELLOW_300": "#FFDAD3",
+        "GREEN_360": "#FFDAD3",
+        "WHITE_500": "#FFFFFF"
+    },
+    "spec": 2
+}
