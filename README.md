@@ -61,3 +61,8 @@ Raw link: https://raw.githubusercontent.com/vorlie/VendettaThemes/main/MediumSla
 ### Preview
 ![](https://us-east-1.tixte.net/uploads/i.vorlie.pl/mediumslateblue.png)
 
+## Red Feathers
+Raw link: https://raw.githubusercontent.com/vorlie/VendettaThemes/main/RedFeathers/redfeathers.json
+
+### Preview
+![](https://vorlie.pl/src/img/redfeathers.png)
