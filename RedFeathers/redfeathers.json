@@ -133,9 +133,5 @@
         "alpha": 0.3,
         "color": "#220403"
     
-      },
-    "plus": {
-        "version": 0,
-        "iconpack": "rosiecord-plumpy"
-    }
+      }
 }
