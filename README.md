@@ -67,4 +67,4 @@ Raw link: https://raw.githubusercontent.com/vorlie/VendettaThemes/main/RedFeathe
 No BG: https://raw.githubusercontent.com/vorlie/VendettaThemes/main/RedFeathers/redfeathers-nobg.json
 
 ### Preview
-![](https://vorlie.pl/src/img/redfeathers.png)
+![](https://us-east-1.tixte.net/uploads/i.vorlie.pl/redfeathers.png)
