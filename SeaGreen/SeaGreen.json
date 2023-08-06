@@ -126,5 +126,9 @@
         "GREEN_360": "#00FFBB",
         "WHITE_500": "#FFFFFF"
     },
-    "spec": 2
+    "spec": 2,
+    "plus":{
+        "version":"0",
+        "iconpack":"rosiecord-plumpy"
+    }
 }
