@@ -137,14 +137,6 @@
       "GREEN_360": "#B569E0",
       "RED_400": "#FC0E61"
 },
-    "spec": 2,
-    "background": {
-      "blur": 0,
-      "url": "https://raw.githubusercontent.com/vorlie/VendettaThemes/main/Purpdark/PurpDark_BG/background.jpg",
-      "alpha": 0.9,
-      "color": "#282828"
-  
-    },
     "plus":{
         "version":"0",
         "iconpack":"rosiecord-plumpy"
