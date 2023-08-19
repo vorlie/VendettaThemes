@@ -130,7 +130,6 @@
         "version":"0",
         "iconpack":"rosiecord-plumpy",
         "icons":{
-          "ic_new_pins":"#BF616A",
           "StatusStreaming": "#B48EAD",
           "StatusMobileOnline": "#A3BE8C",
           "StatusIdle": "#D08770",
