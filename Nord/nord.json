@@ -125,17 +125,17 @@
       "GREEN_360": "#4C566A",
       "RED_400": "#BF616A"
   },
-    "spec": 2,
-    "plus":{
-        "version":"0",
-        "iconpack":"rosiecord-plumpy",
-        "icons":{
+    "plus": {
+        "version": 0,
+        "iconpack": "rosiecord-plumpy",
+        "icons": {
            "StatusStreaming": "#B48EAD",
            "StatusMobileOnline": "#A3BE8C",
            "StatusIdle": "#D08770",
            "StatusDND": "#BF616A",
            "StatusOffline": "#4C566A",
            "StatusOnline": "#A3BE8C"
-    }
-
+        }
+    },
+    "spec": 2
 }
